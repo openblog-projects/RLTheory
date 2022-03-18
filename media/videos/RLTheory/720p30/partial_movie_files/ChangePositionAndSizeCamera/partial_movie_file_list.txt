@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/ChangePositionAndSizeCamera/2456659840_3751287665_2093934116.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/ChangePositionAndSizeCamera/386622227_3638504700_1978224329.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/ChangePositionAndSizeCamera/386622227_2569967788_3614787419.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/ChangePositionAndSizeCamera/3131095407_1360879574_3614787419.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/ChangePositionAndSizeCamera/2916494631_3638504700_612008770.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/ChangePositionAndSizeCamera/2916494631_2569967788_1917068370.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/ChangePositionAndSizeCamera/3131095407_3638504700_3335527800.mp4'
