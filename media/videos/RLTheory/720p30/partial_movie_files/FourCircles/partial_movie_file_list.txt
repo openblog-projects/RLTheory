@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/FourCircles/1342159004_1422767725_223132457.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/FourCircles/1353618911_584433271_479031341.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/FourCircles/1353618911_584433271_1772376914.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/FourCircles/1353618911_584433271_2832166349.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/FourCircles/1353618911_3638504700_835442815.mp4'

@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/AlignToTest/1342159004_570958150_3895812550.mp4'
