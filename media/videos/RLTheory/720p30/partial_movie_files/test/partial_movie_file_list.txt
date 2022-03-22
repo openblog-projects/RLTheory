@@ -1,7 +1,4 @@
 # This file is used internally by FFMPEG.
-file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/test/1342159004_2776029888_223132457.mp4'
-file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/test/1353618911_1733338889_590992460.mp4'
-file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/test/1353618911_3531272201_1338301036.mp4'
-file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/test/1353618911_1733338889_1952396680.mp4'
-file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/test/1353618911_800971379_1628737315.mp4'
-file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/test/1353618911_3138444089_1983784176.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/Test/2096834954_3792116272_223132457.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/Test/4144914278_1530367541_1506311887.mp4'
+file 'file:/Users/maxhager/Projects/MlCourseInternship/RLTheory/media/videos/RLTheory/720p30/partial_movie_files/Test/4144914278_2614299473_2059401632.mp4'
